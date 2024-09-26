@@ -1,7 +1,7 @@
 
 ---
 
-# 🚗🔍 **ClaimWise: Predicting Insurance Outcomes with AI** 🚗🔍
+# 🚗🔍 **ClaimWise: Predicting Insurance Outcomes** 🚗🔍
 
 ## 📝 **Project Description**
 
