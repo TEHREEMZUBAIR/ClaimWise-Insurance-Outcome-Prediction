@@ -64,9 +64,12 @@ To run the notebook:
 🚀 The project has shown the capability to predict insurance claims with high accuracy using machine learning models and neural networks. Below are some visual results:
 
 - **Confusion Matrix for Random Forest**:
+  
 ![1](https://github.com/user-attachments/assets/e64888b8-a478-44a4-b1e1-64576811d4b6)
 
+
 - **Error Curve**:
+  
 ![1](https://github.com/user-attachments/assets/fb335fbf-fbcc-4c40-a857-63788b34c5de)
 
 ---
